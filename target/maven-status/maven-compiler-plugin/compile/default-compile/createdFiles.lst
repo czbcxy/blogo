@@ -1,1 +1,6 @@
+com/example/blogo/myblogo/bodyEntry/controller/BodyEntryController.class
+com/example/blogo/myblogo/utils/JsonUtils.class
+com/example/blogo/myblogo/bodyEntry/services/BodyEntryServie.class
+com/example/blogo/myblogo/utils/StringUtils.class
+com/example/blogo/myblogo/utils/RedisUtil.class
 com/example/blogo/myblogo/MyblogoApplication.class
